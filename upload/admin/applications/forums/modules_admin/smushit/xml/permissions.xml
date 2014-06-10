@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<permissions>
+	<group>
+		<grouptitle>Smush.it</grouptitle>
+		<items>
+			<item>
+				<key>skinod_smoushit</key>
+				<string>Access to Smush.it Module?</string>
+			</item>
+		</items>
+	</group>
+</permissions>
